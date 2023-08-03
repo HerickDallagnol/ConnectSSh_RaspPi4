@@ -28,7 +28,7 @@ $ sudo systemctl status sshd
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-ssh-port.jpg?q=50&fit=crop&w=1500&dpr=1.5)
 
 
-##Ifconfig
+## Ifconfig
 Install:
 ```
 $ sudo apt-get install net-tools
